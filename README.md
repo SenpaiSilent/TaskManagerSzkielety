@@ -130,7 +130,7 @@ Opcjonalne parametry GET /api/tasks:
 
 ---
 
-## Technologie i wymagania zaliczeniowe
+## Technologie i wymagania 
 
 | Wymaganie                       | Realizacja                              |
 |---------------------------------|-----------------------------------------|
